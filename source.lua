@@ -1,3 +1,12 @@
-if gameid1:.., then laodstring:(game)
+features:
+TABS:
+-aim
+    -aimbot on/off
+        aimbot fov
+    -silent aim on/off
+        silent aim fov
+-visuals
+    ESP (corner box)
+-exploits
 
-if gameid2:.., then laodstring:(game)
+-mics
