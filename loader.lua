@@ -15,8 +15,8 @@ StarterGui:SetCore("SendNotification", {
 
 
 --* Application Details *--
-Name = "skais" --* Application Name
-Ownerid = "wNcO97EnSz" --* OwnerID
+Name = "" --* Application Name
+Ownerid = "" --* OwnerID
 APPVersion = "1.0"     --* Application Version
 
 local req = game:HttpGet('https://keyauth.win/api/1.1/?name=' .. Name .. '&ownerid=' .. Ownerid .. '&type=init&ver=' .. APPVersion)
